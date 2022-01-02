@@ -1,0 +1,71 @@
+@media (max-width: 1178px){
+    .ichi-1 h2 {
+        font-size: 26px;
+    }
+}
+@media (max-width: 1032px){
+    .bg-image {
+        height: 70vh;
+    }
+    .main-title {
+        font-size: 35px;
+        top: 400px;
+    }
+    .ichi-3 {
+        width: 100%;
+    }
+    .ichi-4 {
+        width: 100%;
+        text-align: center;
+    }
+    .img-3 img {
+        width: calc(100% / 2 - 20px);
+    }
+    .rasmlar img {
+        width: calc(100% / 2 - 5px);
+    }
+    .bizga {
+        width: 100%;
+    }
+    .murojat {
+        width: 100%;
+    }
+}
+
+@media (max-width: 695px){
+
+    .main-title {
+        font-size: 28px;
+        top: 150px;
+        text-align: center;
+    }
+    .ichi-4 img{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        margin-top: 5px;
+    }
+    .container {
+        width: 100%;
+    }
+    .bg-image {
+        height: 40vh;
+    }
+    .box-page  {
+        width: 100%;
+    }
+}
+@media (max-width: 556px){
+
+    .main-title {
+        font-size: 25px;
+    }
+}
+
+
+
+@media (min-width: 700px) and (max-width: 1000px){
+    .mus-h2 {
+        font-size: 20px;
+    }
+}
